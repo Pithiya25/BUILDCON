@@ -8,7 +8,7 @@ function Navbar() {
           <span id="clr-txt" style={{ color: "#E4BE60" }}>
             BUILD
           </span>
-          CON
+          CONEX
         </a>
         <button
           className="navbar-toggler"
